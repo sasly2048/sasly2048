@@ -2,7 +2,7 @@
 
 **One student’s practice is another student’s breakthrough.**
 
-Welcome to my GitHub profile ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Welcome to my ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) profile 
 
 ## 🚀 About Me : 
 
