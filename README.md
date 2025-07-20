@@ -1,4 +1,4 @@
-# function greet() { return "👋🤖 Hi, I’m Raghavendra G"; }
+# let unlockAccess = () => `🔐✅ Access granted 🤖💻: Welcome from Raghavendra G!`;
 
 **One student’s practice is another student’s breakthrough.**
 
