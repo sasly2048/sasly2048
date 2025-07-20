@@ -1,4 +1,4 @@
-#function greet() { return "👋🤖 Hi, I’m Raghavendra G"; }
+# function greet() { return "👋🤖 Hi, I’m Raghavendra G"; }
 
 **One student’s practice is another student’s breakthrough.**
 
@@ -22,7 +22,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 ## 📫 How to Reach Me : 
 
-- Email: [![Raghavendra Sujith](mailto:raghavendrasujith204800@gmail.com)
+- Email: [Raghavendra Sujith](mailto:raghavendrasujith204800@gmail.com)
 - LinkedIn: [Raghavendra G](https://www.linkedin.com/in/raghavendra-g204800/)
 
 ## ✨ Goals : 
