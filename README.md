@@ -2,7 +2,7 @@
 
 **One student’s practice is another student’s breakthrough.**
 
-Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align:middle"/> GitHub profile!
+Welcome to my <a href="https://github.com/sasly2048" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align:middle"/> GitHub</a> profile!
 
 ## 🚀 About Me : 
 
