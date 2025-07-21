@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 I’m actively sharpening my C Programming skills through daily practice.  
 Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, and algorithm implementations!
 
-## 🧰 Skills Developing : 
+## 🧰 Skills : 
 
 - Fundamentals of Computer Science
 - C
