@@ -26,8 +26,9 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
 
 ## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=s How to Reach Me
+## 📫 How to Reach Me :
 
 - **Email:** [Raghavendra Sujith](mailto:raghavendrasujith204800@gmail.com)
 - **LinkedIn:** [Raghavendra G](https://www.linkedin.com/in/raghavendra-g204800/)
