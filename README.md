@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## 📚 Current Learning Exercise : 
 
-I’m actively sharpening my C programming skills through daily practice.  
+I’m actively sharpening my C Programming skills through daily practice.  
 Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, and algorithm implementations!
 
 ## 🧰 Skills Developing : 
