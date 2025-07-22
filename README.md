@@ -28,7 +28,6 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 📈 GitHub Stats :
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sasly2048&theme=dark)](https://git.io/streak-stats)
-  <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ## 📫 How to Reach Me :
 
