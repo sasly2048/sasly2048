@@ -25,7 +25,11 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 - **HackerRank:** [My HackerRank Profile](https://www.hackerrank.com/profile/sasly204800)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats :
+![Visitor Count](https://komarev.com/ghpvc/?username=sasly2048)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sasly2048&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasly2048&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sasly2048&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me :
