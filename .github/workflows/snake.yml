@@ -1,0 +1,37 @@
+# .github/workflows/snake.yml
+name: Generate Snake Animation # Name of your workflow, visible in Actions tab
+on:
+  schedule:
+    # Runs every day at midnight UTC. Adjust '0 0 * * *' if you need a different time.
+    # Check https://crontab.guru/ for cron schedule examples.
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Crucial: Grant write permissions for the action to push the generated SVG
+    permissions:
+      contents: write
+    steps:
+      # Step 1: Checkout your repository code
+      - uses: actions/checkout@v3
+
+      # Step 2: Generate the snake SVG
+      - uses: Platane/snk/svg-only@v3 # Using a stable version for SVG-only output
+        id: snake-gif
+        with:
+          github_user_name: sasly2048 # *** Make sure this is your GitHub username ***
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Optional: Generate a dark theme version too
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub's default token with repo scope
+
+      # Step 3: Deploy the generated SVG to the 'output' branch
+      - uses: crazy-max/ghaction-github-pages@v3.1.0 # Action to publish to gh-pages or any branch
+        with:
+          target_branch: output # The branch where the SVG will be stored
+          build_dir: dist # The directory where the 'snk' action saved the SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub's default token for pushing
