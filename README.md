@@ -26,7 +26,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sasly2048&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me :
 
