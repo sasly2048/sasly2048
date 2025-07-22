@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 - 🎓 I’m currently pursuing my **B.Tech in Computer Science and Engineering**.
 - 🌱 I’m at the beginning of my journey, learning the fundamentals of computer science.
-- 📚 Even without formal credentials so far, I’m actively investing time in building solid skills and preparing myself for the challenges ahead.
+- 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
 ## 📚 Current Learning Exercise :
 
