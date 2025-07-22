@@ -18,7 +18,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 🧰 Skills : 
 
 - Fundamentals of Computer Science
-- <img src="https://skillicons.dev/icons?i=c" />
+- <img src="https://skillicons.dev/icons?i=c" width="50" />
 
 ## 💻 Coding Profiles :
 
@@ -28,14 +28,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 📈 GitHub Stats :
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sasly2048&theme=dark)](https://git.io/streak-stats)
-- uses: Platane/snk@master # or @v3, see point 5
-  id: snake-gif
-  with:
-    github_user_name: sasly2048 # <--- ENSURE THIS IS YOUR USERNAME
-    outputs: |
-      dist/github-contribution-grid-snake.svg
-      # ... (other outputs)
-
+  <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ## 📫 How to Reach Me :
 
