@@ -18,7 +18,9 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 🧰 Skills : 
 
 - Fundamentals of Computer Science
-- C
+- <p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+</p>
 
 ## 💻 Coding Profiles :
 
@@ -32,12 +34,6 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-### My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,docker,aws,git" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,kubernetes,figma,vscode,gcp" />
-</p>
 
 ## 📫 How to Reach Me :
 
