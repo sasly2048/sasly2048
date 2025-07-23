@@ -18,7 +18,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 🧰 Skills : 
 
 - Fundamentals of Computer Science
-- <img src="https://skillicons.dev/icons?i=c,html,git" width="50" />
+- <img src="https://skillicons.dev/icons?i=c,html,git" width="55" />
 
 ## 💻 Coding Profiles :
 
