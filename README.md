@@ -1,8 +1,8 @@
 # `🔐✅ Access granted 🤖💻: Welcome from Raghavendra!`
 
-**One student’s practice is another student’s breakthrough.**
+**"One student’s practice is another student’s breakthrough."**
 
-Welcome to my GitHub profile!
+Welcome to my **GitHub** profile!
 
 ## 🚀 About Me :
 
@@ -17,7 +17,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 ## 🧰 Skills : 
 
-- Fundamentals of Computer Science
+- Fundamentals of Computer Science.
 - <img src="https://skillicons.dev/icons?i=c,html,git" width="60" />
 
 ## 💻 Coding Profiles :
@@ -40,5 +40,6 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 - **Email:** [Raghavendra Sujith](mailto:raghavendrasujith204800@gmail.com)
 - **LinkedIn:** [Raghavendra G](https://www.linkedin.com/in/raghavendra-g204800/)
+
 
 **Bonne journée !**
