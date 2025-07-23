@@ -18,11 +18,11 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 🧰 Skills : 
 
 - Fundamentals of Computer Science
--<!-- C icon from SkillIcons -->
+-<!-- C icon -->
 <img src="https://skillicons.dev/icons?i=c" width="28" />
 
-<!-- Microsoft Word icon from SimpleIcons CDN -->
-<img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="28" />
+<!-- Microsoft Word icon from Wikimedia -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Word_2013-2019_logo.svg" width="28" />
 
 
 ## 💻 Coding Profiles :
