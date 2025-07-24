@@ -38,8 +38,8 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 ## 📫 How to Reach Me :
 
-- **Email:** **[<img src="https://skillicons.dev/icons?i=gmail" width="40" />]** : (mailto:raghavendrasujith204800@gmail.com)
-- **LinkedIn:** **[<img src="https://skillicons.dev/icons?i=linkedin" width="40" />]** : (https://www.linkedin.com/in/raghavendra-g204800/)
+- **Email:** **[<img src="https://skillicons.dev/icons?i=gmail" width="40" />](mailto:raghavendrasujith204800@gmail.com)**
+- **LinkedIn:** **[<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/raghavendra-g204800/)**
 
 
 **Bonne journée !**
