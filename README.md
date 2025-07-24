@@ -20,7 +20,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 - 💻 Fundamentals of Computer Science
 - 🛠️ Programming & Tools : <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
 
-## 💻 Coding Profiles :
+## 🧑‍💻 Coding Profiles :
 
 - **HackerRank:** [My HackerRank Profile](https://www.hackerrank.com/profile/sasly204800)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
