@@ -18,7 +18,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 ## 🧰 Skills : 
 
 - Fundamentals of Computer Science.
-- <img src="https://skillicons.dev/icons?i=c,html,git,gmail" width="60" />
+- <img src="https://skillicons.dev/icons?i=c,html,git," width="60" />
 
 ## 💻 Coding Profiles :
 
@@ -38,7 +38,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 ## 📫 How to Reach Me :
 
-- **Email:** [Raghavendra Sujith](mailto:raghavendrasujith204800@gmail.com)
+- **Email:** [<img src="https://skillicons.dev/icons?i=gmail" width="60" />](mailto:raghavendrasujith204800@gmail.com)
 - **LinkedIn:** [Raghavendra G](https://www.linkedin.com/in/raghavendra-g204800/)
 
 
