@@ -15,10 +15,10 @@ Welcome to my ***GitHub*** profile!
 I’m actively sharpening my C Programming skills through daily practice.  
 Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, and algorithm implementations!
 
-## 🧰 Skills : 
+## 💼 Skills : 
 
-- Fundamentals of Computer Science.
-- <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
+- 💻 Fundamentals of Computer Science
+- 🛠️ Programming & Tools : <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
 
 ## 💻 Coding Profiles :
 
