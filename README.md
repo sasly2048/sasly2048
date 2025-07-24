@@ -22,7 +22,7 @@ Check out my **[C Programming Practice Repository](https://github.com/sasly2048/
 
 ## 💻 Coding Profiles :
 
-- **[](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white) :** [My HackerRank Profile](https://www.hackerrank.com/profile/sasly204800)
+- **HackerRank:** [My HackerRank Profile](https://www.hackerrank.com/profile/sasly204800)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
 
 ## 📈 GitHub Stats :
