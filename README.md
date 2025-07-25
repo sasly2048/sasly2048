@@ -18,8 +18,8 @@ I’m actively developing my C Programming skills with daily practice and small 
 
 ## 💼 Skills : 
 
-- 💻 Fundamentals of Computer Science
-- 🛠️ Programming & Tools : <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
+- 💻 **Fundamentals of Computer Science**
+- 🛠️ **Programming & Tools :** <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
 
 ## 🧑‍💻 Coding Profiles :
 
