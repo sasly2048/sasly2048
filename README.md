@@ -2,7 +2,7 @@
 
 **"One student’s practice is another student’s breakthrough."**
 
-Welcome to my ***GitHub*** profile!
+Welcome to my ****GitHub**** profile!
 
 ## 🚀 About Me :
 
