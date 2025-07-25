@@ -1,4 +1,4 @@
-# `🔐✅ Access granted 🤖💻: Welcome from Raghavendra!`
+# `🔐✅ Access granted 🤖💻: Hello from Raghavendra!`
 
 **"One student’s practice is another student’s breakthrough."**
 
