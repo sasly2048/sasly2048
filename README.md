@@ -12,8 +12,8 @@ Welcome to my ***GitHub*** profile!
 
 ## 📚 Current Learning Exercise :
 
-I’m actively developing my C Programming skills with daily practice and small project implementations.                                                  
-                                 Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, algorithm implementations and give feedbacks.
+- I’m actively developing my C Programming skills with daily practice and small project implementations.                                                  
+- Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, algorithm implementations and give feedbacks.
 
 ## 💼 Skills : 
 
