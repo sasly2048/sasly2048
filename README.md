@@ -38,8 +38,8 @@ Welcome to my ***GitHub*** profile!
 
 ## 📫 How to Reach Me :
 
-- <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : **raghavendrasujith204800@gmail.com**
-- <img src="https://skillicons.dev/icons?i=linkedin" width="20" /> : **www.linkedin.com/in/raghavendra-g204800**
+- <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : raghavendrasujith204800@gmail.com
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20" /> : www.linkedin.com/in/raghavendra-g204800
 
 
 **Bonne journée !**
