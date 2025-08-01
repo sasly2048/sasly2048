@@ -10,11 +10,6 @@ Welcome to my ***GitHub*** profile!
 - 🌱 I’m at the beginning of my journey, learning the fundamentals of computer science.
 - 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
-## 📚 Current Learning Exercise :
-
-- I’m actively developing my **C Programming** skills with daily practice and small project implementations.                                                  
-- Check out my **[C Programming Practice Repository](https://github.com/sasly2048/C-Programming)** to see my progress, small projects, algorithm implementations and give feedbacks.
-
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
