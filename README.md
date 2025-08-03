@@ -35,9 +35,10 @@ Welcome to my ***GitHub*** profile!
 
 - <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : raghavendrasujith204800@gmail.com
 
-    <style>
+
+      <style>
         .libutton {
-        display: flex;
+          display: flex;
           flex-direction: column;
           justify-content: center;
           padding: 7px;
@@ -53,5 +54,4 @@ Welcome to my ***GitHub*** profile!
         }
       </style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=raghavendra-g204800" target="_blank">Follow on LinkedIn</a>
-
 **Bonne journée !**
