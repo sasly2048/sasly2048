@@ -34,37 +34,7 @@ Welcome to my ***GitHub*** profile!
 ## 📫 How to Reach Me :
 
 - <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : raghavendrasujith204800@gmail.com
-
-- <!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-  </head>
-  <body>
-    <img src="https://skillicons.dev/icons?i=gmail" width="20" alt="Gmail Icon" />
-    : raghavendrasujith204800@gmail.com
-    <br><br>
-    <a class="libutton"
-      href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=raghavendra-g204800"
-      target="_blank">Follow on LinkedIn</a>
-  </body>
-</html>
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="LinkedIn Icon" /> : https://www.linkedin.com/in/raghavendra-g204800/
 
 
 **Bonne journée !**
