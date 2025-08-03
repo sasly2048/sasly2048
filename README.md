@@ -35,9 +35,9 @@ Welcome to my ***GitHub*** profile!
 
 - <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : raghavendrasujith204800@gmail.com
 
-      <style>
+    <style>
         .libutton {
-          display: flex;
+        display: flex;
           flex-direction: column;
           justify-content: center;
           padding: 7px;
