@@ -13,7 +13,7 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-- 🛠️ **Programming & Tools :** <img src="https://skillicons.dev/icons?i=c,html,git,vscode" width="80" />
+- 🛠️ **Programming & Tools :** <img src="https://skillicons.dev/icons?i=c,git,html,mysql,vscode" width="80" />
 
 ## 🧑‍💻 Coding Profiles :
 
