@@ -30,15 +30,15 @@ Welcome to my ***GitHub*** profile!
 
 ## 🏆 Certifications
 
-- **C Programming with Data Structures** – GeeksforGeeks
-- **Microsoft 365 Essentials** – Microsoft
+- [**Blockchain Basics** – Cyfrin](#)
+- [**C Programming with Data Structures** – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/3ee1c304552f2227836649b855667930.pdf)
+- [**CS50x** – Harvard University](https://cs50.harvard.edu/certificates/4c1cdeec-a6c2-4e06-a970-dd0dbcde7603)
 - **Introduction to Git and GitHub** – Google
 - **Introduction to HTML5** – University of Michigan
-- **CS50x** – Harvard University
-- **Blockchain Basics** – Cyfrin
-- **Web3 Wallet Security Basics** – Cyfrin
-- **Zero-Knowledge Proofs (ZKPs)** – Cyfrin
-- **SQL for Beginners** – Scaler
+- **Microsoft 365 Essentials** – Microsoft
+- [**SQL for Beginners** – Scaler](https://i.postimg.cc/QdC6Mgty/Scaler-SQL.png)
+- [**Web3 Wallet Security Basics** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/web3-wallet-security-basics)
+- [**Zero-Knowledge Proofs (ZKPs)** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/fundamentals-of-zero-knowledge-proofs)
 
 ## 📈 GitHub Stats :
 
