@@ -23,7 +23,7 @@ Welcome to my ***GitHub*** profile!
 
 ## 📁 Projects : 
 
- **1.** ***WPM Typing Test Application ⌨️ :*** A web-based app to test and improve your typing speed and accuracy. Shows live WPM and accuracy as you type, with a 5-minute   timer and visual feedback. Features a responsive interface and tracks your progress over time.
+-  ***WPM Typing Test Application ⌨️ :*** A web-based app to test and improve your typing speed and accuracy. Shows live WPM and accuracy as you type, with a 5-minute   timer and visual feedback. Features a responsive interface and tracks your progress over time.
 
 - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation.
   Explore, review, or contribute to the project directly on GitHub.
