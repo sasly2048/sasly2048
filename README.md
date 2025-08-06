@@ -23,17 +23,21 @@ Welcome to my ***GitHub*** profile!
 
 ## 🏆 Certifications
 
-| Course                                               | Issued By              |
-|------------------------------------------------------|-------------------------|
-| Blockchain Basics                                    | Cyfrin                  |
-| C Programming with Data Structures                   | GeeksforGeeks           |
-| CS50x                                                | Harvard University      |
-| Introduction to Git and GitHub                       | Google                  |
-| Introduction to HTML5                                | University of Michigan  |
-| Microsoft 365 Essentials                             | Microsoft               |
-| SQL for Beginners: Learn SQL using MySQL and Database Design | Scaler           |
-| Web3 Wallet Security Basics                          | Cyfrin                  |
-| Zero-Knowledge Proofs (ZKPs)                         | Cyfrin                  |
+## 🏆 Certifications
+
+| Course                                              | Issued By             |
+|-----------------------------------------------------|-----------------------|
+| Blockchain Basics                                   | Cyfrin                |
+| C Programming with Data Structures                  | GeeksforGeeks         |
+| CS50x                                               | Harvard University    |
+| Introduction to Git and GitHub                      | Google                |
+| Introduction to HTML5                               | University of Michigan|
+| Microsoft 365 Essentials                            | Microsoft             |
+| Qiskit Global Summer School 2025                    | Qiskit (IBM Quantum)  |
+| SQL for Beginners: Learn SQL using MySQL and Database Design | Scaler        |
+| Web3 Wallet Security Basics                         | Cyfrin                |
+| Zero-Knowledge Proofs (ZKPs)                        | Cyfrin                |
+
 
 
 
