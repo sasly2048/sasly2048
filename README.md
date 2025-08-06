@@ -21,9 +21,7 @@ Welcome to my ***GitHub*** profile!
   
     - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
-## 🏆 Certifications
-
-## 🏆 Certifications
+## 🏆 Certifications 
 
 | Course                                              | Issued By             |
 |-----------------------------------------------------|-----------------------|
