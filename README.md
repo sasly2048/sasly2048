@@ -13,11 +13,11 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-- 🛠 **Programming & Tools :**<!DOCTYPE html>
+- 🛠 **Programming & Tools :** <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Programming & Tools</title>
+  <title> - 🛠 **Programming & Tools :** </title>
   <style>
     .tools-container {
       display: flex;
@@ -38,7 +38,7 @@ Welcome to my ***GitHub*** profile!
 <body>
 
   <div class="tools-container">
-    <span>🛠 Programming & Tools :</span>
+    <span> - 🛠 **Programming & Tools :** </span>
     <img src="https://skillicons.dev/icons?i=c" alt="c"/>
     <img src="https://skillicons.dev/icons?i=git" alt="git"/>
     <img src="https://skillicons.dev/icons?i=html" alt="html"/>
