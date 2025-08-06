@@ -21,7 +21,7 @@ Welcome to my ***GitHub*** profile!
   <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" alt="mysql"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="vscode"/>
 
-  ## 📁 Projects : 
+## 📁 Projects : 
 
  **1.** ***WPM Typing Test Application ⌨️ :*** A web-based app to test and improve your typing speed and accuracy. Shows live WPM and accuracy as you type, with a 5-minute   timer and visual feedback. Features a responsive interface and tracks your progress over time.
 
