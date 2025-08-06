@@ -28,7 +28,7 @@ Welcome to my ***GitHub*** profile!
 - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation.
   Explore, review, or contribute to the project directly on GitHub.
 
-## 🏆 Certifications
+## 🏆 Certifications :
 
 - [**Blockchain Basics** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/blockchain-basics)
 - [**C Programming with Data Structures** – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/3ee1c304552f2227836649b855667930.pdf)
