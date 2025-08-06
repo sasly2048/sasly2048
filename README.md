@@ -28,10 +28,17 @@ Welcome to my ***GitHub*** profile!
 - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation.
   Explore, review, or contribute to the project directly on GitHub.
 
-## 🧑‍💻 Coding Profiles :
+## 🏆 Certifications
 
-- **HackerRank:** [My HackerRank Profile](https://www.hackerrank.com/profile/sasly204800)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sasly204800/)
+- **C Programming with Data Structures** – GeeksforGeeks
+- **Microsoft 365 Essentials** – Microsoft
+- **Introduction to Git and GitHub** – Google
+- **Introduction to HTML5** – University of Michigan
+- **CS50x** – Harvard University
+- **Blockchain Basics** – Cyfrin
+- **Web3 Wallet Security Basics** – Cyfrin
+- **Zero-Knowledge Proofs (ZKPs)** – Cyfrin
+- **SQL for Beginners** – Scaler
 
 ## 📈 GitHub Stats :
 
