@@ -52,8 +52,8 @@ Welcome to my ***GitHub*** profile!
 
 ## 📫 How to Reach Me :
 
-- <img src="https://skillicons.dev/icons?i=gmail" width="20" /> : raghavendrasujith204800@gmail.com
-- <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="LinkedIn Icon" /> : https://www.linkedin.com/in/raghavendra-g204800/
+- [Email](mailto:raghavendrasujith204800@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/)
+
 
 
 **Bonne journée !**
