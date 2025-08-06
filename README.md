@@ -57,5 +57,3 @@ More certifications on [LinkedIn](https://www.linkedin.com/in/raghavendra-g20480
 
 
 
-
-**Bonne journée !**
