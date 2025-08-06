@@ -14,12 +14,12 @@ Welcome to my ***GitHub*** profile!
 
 - 💻 **Fundamentals of Computer Science**
 - 🛠 **Programming & Tools :** 
-  <img src="https://skillicons.dev/icons?i=c" width="23" height="23" alt="c"/>
-  <img src="https://skillicons.dev/icons?i=git" width="23" height="23" alt="git"/>
-  <img src="https://skillicons.dev/icons?i=html" width="23" height="23" alt="html"/>
-  <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="23" height="23" alt="microsoft-365"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="23" height="23" alt="mysql"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="23" height="23" alt="vscode"/>
+  <img src="https://skillicons.dev/icons?i=c" width="22" height="22" alt="c"/>
+  <img src="https://skillicons.dev/icons?i=git" width="22" height="22" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=html" width="22" height="22" alt="html"/>
+  <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="22" height="22" alt="microsoft-365"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="22" height="22" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="22" height="22" alt="vscode"/>
 
 
 
