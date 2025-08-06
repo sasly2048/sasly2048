@@ -13,16 +13,42 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-- 🛠 **Programming & Tools :** <div style="display: flex; align-items: center; gap: 10px; color: white; font-size: 24px;">
-  <span style="display: flex; align-items: center;">
-  </span>
-  <img src="https://skillicons.dev/icons?i=c" width="25" height="25" alt="c"/>
-  <img src="https://skillicons.dev/icons?i=git" width="25" height="25" alt="git"/>
-  <img src="https://skillicons.dev/icons?i=html" width="25" height="25" alt="html"/>
-  <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="25" height="25" alt="microsoft-365"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="25" height="25" alt="mysql"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25" alt="vscode"/>
-</div>
+- 🛠 **Programming & Tools :**<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Programming & Tools</title>
+  <style>
+    .tools-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 24px;
+      color: white;
+      background-color: #111; /* Optional background for better visibility */
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+    .tools-container img {
+      width: 30px;
+      height: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="tools-container">
+    <span>🛠 Programming & Tools :</span>
+    <img src="https://skillicons.dev/icons?i=c" alt="c"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="git"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="html"/>
+    <img src="https://img.icons8.com/fluency/240/microsoft-365.png" alt="microsoft-365"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
+  </div>
+
+</body>
+</html>
 
 
 
