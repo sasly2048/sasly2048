@@ -15,7 +15,6 @@ Welcome to my ***GitHub*** profile!
 - 💻 **Fundamentals of Computer Science**
 - 🛠 **Programming & Tools :** <div style="display: flex; align-items: center; gap: 10px; color: white; font-size: 24px;">
   <span style="display: flex; align-items: center;">
-   - 🛠 **Programming & Tools :** 
   </span>
   <img src="https://skillicons.dev/icons?i=c" width="25" height="25" alt="c"/>
   <img src="https://skillicons.dev/icons?i=git" width="25" height="25" alt="git"/>
