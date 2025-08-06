@@ -13,7 +13,7 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-- 🛠 **Programming & Tools :** <div style="display: flex; align-items: center; gap: 8px;">
+- 🛠 **Programming & Tools :** <div style="align-items: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=c" width="25" height="25" alt="c"/>
   <img src="https://skillicons.dev/icons?i=git" width="25" height="25" alt="git"/>
   <img src="https://skillicons.dev/icons?i=html" width="25" height="25" alt="html"/>
