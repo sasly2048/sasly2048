@@ -13,16 +13,15 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-- 🛠️ **Programming & Tools :** <div style="display: flex; align-items: center; gap: 8px; font-family: sans-serif; font-size: 1em; font-weight: bold; color: #ffffff;">
-    <img src="https://skillicons.dev/icons?i=tools" alt="tools" width="20" height="20" style="margin-right: 5px;"/>
-    <span>Programming & Tools :</span>
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="25" height="25"/>
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="25" height="25"/>
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="25" height="25"/>
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="25" height="25"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="25" height="25"/>
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="25" height="25"/>
+- 🛠️ **Programming & Tools :** <div style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=c" width="25" height="25" alt="c"/>
+  <img src="https://skillicons.dev/icons?i=git" width="25" height="25" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=html" width="25" height="25" alt="html"/>
+  <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="25" height="25" alt="microsoft-365"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="25" height="25" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25" alt="vscode"/>
 </div>
+
 
 
 
