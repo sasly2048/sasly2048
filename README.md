@@ -30,7 +30,7 @@ Welcome to my ***GitHub*** profile!
 
 ## 🏆 Certifications
 
-- [**Blockchain Basics** – Cyfrin](#)
+- [**Blockchain Basics** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/blockchain-basics)
 - [**C Programming with Data Structures** – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/3ee1c304552f2227836649b855667930.pdf)
 - [**CS50x** – Harvard University](https://cs50.harvard.edu/certificates/4c1cdeec-a6c2-4e06-a970-dd0dbcde7603)
 - **Introduction to Git and GitHub** – Google
