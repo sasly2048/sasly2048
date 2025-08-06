@@ -12,8 +12,8 @@ Welcome to my ***GitHub*** profile!
 
 ## 💼 Skills
 
-**Languages:** <img src="https://skillicons.dev/icons?i=c" width="30" height="30" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML"/>  
-**Tools:** <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="30" height="30" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="30" height="30" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VSCode"/>
+**Languages:** <img src="https://skillicons.dev/icons?i=c" width="20" height="20" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/>  
+**Tools:** <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="Git"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="20" height="20" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="VSCode"/>
 
 
 
