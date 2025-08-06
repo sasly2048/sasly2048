@@ -13,7 +13,7 @@ Welcome to my ***GitHub*** profile!
 ## 💼 Skills : 
 
 - 💻 **Fundamentals of Computer Science**
-<div style="display: flex; align-items: center; gap: 10px; color: white; font-size: 24px;">
+- 🛠 **Programming & Tools :** <div style="display: flex; align-items: center; gap: 10px; color: white; font-size: 24px;">
   <span style="display: flex; align-items: center;">
    - 🛠 **Programming & Tools :** 
   </span>
