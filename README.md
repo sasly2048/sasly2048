@@ -24,15 +24,20 @@ Welcome to my ***GitHub*** profile!
 
 ## 🏆 Certifications
 
-- Blockchain Basics – _Cyfrin_
-- C Programming with Data Structures – _GeeksforGeeks_
-- CS50x – _Harvard University_
-- Introduction to Git and GitHub – _Google_
-- Introduction to HTML5 – _University of Michigan_
-- Microsoft 365 Essentials – _Microsoft_
-- SQL for Beginners – _Scaler_
-- Web3 Wallet Security Basics – _Cyfrin_
-- Zero-Knowledge Proofs (ZKPs) – _Cyfrin_
+## 🏆 Certifications
+
+| Course                                               | Issued By              |
+|------------------------------------------------------|-------------------------|
+| Blockchain Basics                                    | Cyfrin                  |
+| C Programming with Data Structures                   | GeeksforGeeks           |
+| CS50x                                                | Harvard University      |
+| Introduction to Git and GitHub                       | Google                  |
+| Introduction to HTML5                                | University of Michigan  |
+| Microsoft 365 Essentials                             | Microsoft               |
+| SQL for Beginners: Learn SQL using MySQL and Database Design | Scaler           |
+| Web3 Wallet Security Basics                          | Cyfrin                  |
+| Zero-Knowledge Proofs (ZKPs)                         | Cyfrin                  |
+
 
 
 More certifications on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/)
