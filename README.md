@@ -12,7 +12,6 @@ Welcome to my ***GitHub*** profile!
 
 ## 💼 Skills : 
 
-- 💻 **Fundamentals of Computer Science**
 - 🛠 **Programming & Tools :** 
   <img src="https://skillicons.dev/icons?i=c" width="20" height="20" alt="c"/>
   <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="git"/>
@@ -39,6 +38,7 @@ Welcome to my ***GitHub*** profile!
 - [**SQL for Beginners** – Scaler](https://i.postimg.cc/QdC6Mgty/Scaler-SQL.png)
 - [**Web3 Wallet Security Basics** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/web3-wallet-security-basics)
 - [**Zero-Knowledge Proofs (ZKPs)** – Cyfrin](https://profiles.cyfrin.io/u/sasly204800/achievements/fundamentals-of-zero-knowledge-proofs)
+- **More coming soon!**
 
 ## 📈 GitHub Stats :
 
