@@ -15,6 +15,21 @@ Welcome to my ***GitHub*** profile!
 - **Languages:** <img src="https://skillicons.dev/icons?i=c" width="15" height="15" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="15" height="15" alt="HTML"/>
 - **Tools:** <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="18" height="18" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="18" height="18" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="18" height="18" alt="VSCode"/>
 
+
+| Language   | Status |
+|------------|--------|
+| C          | ✅     |
+| C++        |        |
+| Python     |        |
+| HTML       | ✅     |
+| CSS        |        |
+| JavaScript |        |
+| Rust       |        |
+| SQL        | ✅     |
+
+**Loading... 37%**
+[███▒▒▒▒▒▒▒] 37%
+
 ## 📁 Projects : 
 
 - ***WPM Typing Test Application ⌨️:*** A web-based app to test and improve your typing speed and accuracy. Shows live WPM and accuracy as you type, with a 5-minute timer and visual feedback. Features a responsive interface and tracks your progress over time.
