@@ -10,7 +10,7 @@ Welcome to my ***GitHub*** profile!
 - 🌱 I’m at the beginning of my journey, learning the fundamentals of computer science.
 - 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
-## 💼 Skills
+## 💼 Skills : 
 
 - **Languages:** <img src="https://skillicons.dev/icons?i=c" width="15" height="15" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="15" height="15" alt="HTML"/>
 - **Tools:** <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="18" height="18" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="18" height="18" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="18" height="18" alt="VSCode"/>
@@ -39,7 +39,7 @@ Welcome to my ***GitHub*** profile!
 
 
 
-More certifications on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/)
+More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/)
 
 
 ## 📈 GitHub Stats :
