@@ -12,7 +12,7 @@ Welcome to my ***GitHub*** profile!
 
 ## 💼 Skills : 
 
-- <img src="https://skillicons.dev/icons?i=c" width="20" height="20" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="Git"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="20" height="20" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="VSCode"/>
+- <img src="https://skillicons.dev/icons?i=c" width="20" height="20" alt="C"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> <img src="https://skillicons.dev/icons?i=git" width="20" height="20" alt="Git"/> <img src="https://skillicons.dev/icons?i=linux" width="20" height="20" alt="Linux"/> <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="20" height="20" alt="Microsoft 365"/> <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" alt="VSCode"/>
 
 ## 📁 Projects : 
 
