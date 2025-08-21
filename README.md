@@ -20,23 +20,20 @@ Welcome to my ***GitHub*** profile!
   
     - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
-## 🏆 Certifications 
+## 🏆 Certifications   
 
 | Course                                              | Issued By             |
 |-----------------------------------------------------|-----------------------|
 | Blockchain Basics                                   | Cyfrin                |
 | C Programming with Data Structures                  | GeeksforGeeks         |
 | CS50x                                               | Harvard University    |
+| Cybersecurity Essentials (LFC108)                   | The Linux Foundation  |
 | Introduction to Git and GitHub                      | Google                |
 | Introduction to HTML5                               | University of Michigan|
 | Microsoft 365 Essentials                            | Microsoft             |
+| Postman API Fundamentals Student Expert             | Postman               |
 | Qiskit Global Summer School 2025                    | Qiskit (IBM Quantum)  |
 | SQL for Beginners: Learn SQL using MySQL and Database Design | Scaler        |
-| Web3 Wallet Security Basics                         | Cyfrin                |
-| Zero-Knowledge Proofs (ZKPs)                        | Cyfrin                |
-
-
-
 
 More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/)
 
