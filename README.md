@@ -20,6 +20,10 @@ Welcome to my ***GitHub*** profile!
   
     - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
+- ***Password Strength Checker :*** A lightweight C program to evaluate the strength of a user-entered password based on key security parameters like length, character variety, and complexity.
+  
+    - Visit the [GitHub repository](https://github.com/sasly2048/Password_Strength_Checker) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
+
 ## 🏆 Certifications   
 
 | Course                                              | Issued By             |
