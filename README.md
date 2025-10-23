@@ -20,9 +20,9 @@ Welcome to my ***GitHub*** profile!
   
     - Visit the [GitHub repository](https://github.com/sasly2048/WPM-Typing-Test) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
-- ***Password Strength Checker :*** A lightweight C program to evaluate the strength of a user-entered password based on key security parameters like length, character variety, and complexity.
+- ***Password Management Toolkit :*** A Password Management Toolkit is a versatile C program designed to enhance user security by providing two core functionalities : a Password Strength Checker and a Random Password Generator.
   
-    - Visit the [GitHub repository](https://github.com/sasly2048/Password_Strength_Checker) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
+    - Visit the [GitHub repository]((https://github.com/sasly2048/Password_Management_Toolkit)) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
 ## 🏆 Certifications   
 
