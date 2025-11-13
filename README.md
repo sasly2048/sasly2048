@@ -52,8 +52,6 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-## 📫 How to Reach Me :
-
 <a href="https://www.linkedin.com/in/raghavendra-g204800/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
