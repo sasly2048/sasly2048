@@ -54,10 +54,10 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 ## 📫 How to Reach Me :
 
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a href="https://www.linkedin.com/in/raghavendra-g204800/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="raghavendra-g204800" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/raghavendra-g204800?trk=profile-badge">Raghavendra G</a></div>
-              
 
 
 
