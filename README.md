@@ -54,7 +54,8 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 ## 📫 How to Reach Me :
 
-- [Email](mailto:raghavendrasujith204800@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/)
+-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="raghavendra-g204800" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/raghavendra-g204800?trk=profile-badge">Raghavendra G</a></div>
+              
 
 
 
