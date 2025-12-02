@@ -46,6 +46,7 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sasly2048&theme=dark" alt="GitHub Streak" />
+  **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasly2048&layout=compact&theme=dark)](https://github.com/sasly2048)**
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
