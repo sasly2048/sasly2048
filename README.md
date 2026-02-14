@@ -44,7 +44,9 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 ## 📈 GitHub Stats :
 
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=sasly2048&theme=dark&hide_border=true)
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
