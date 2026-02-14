@@ -43,19 +43,7 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 
 ## 📈 GitHub Stats :
-<div align="center">
-
-  <img 
-    height="170em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasly2048&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF8C42&icon_color=FF8C42&text_color=EAEAEA&bg_color=0E1116" 
-  />
-
-  <img 
-    height="170em"
-    src="https://streak-stats.demolab.com?user=sasly2048&hide_border=true&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42&background=0E1116&sideLabels=EAEAEA&currStreakNum=EAEAEA&dates=AAAAAA" 
-  />
-
-</div>
+<div align ="center"> <a href="https://github.com/sasly2048"> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sasly2048&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" /> </a> <a href="https://github.com/sasly2048"> <img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=tokyonight&hide_border=true&border_radius=16" /> </a> </div>
 
 
 <p align="center">
