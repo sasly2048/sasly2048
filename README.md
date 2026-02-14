@@ -44,17 +44,14 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 ## 📈 GitHub Stats :
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasly2048&show_icons=true&theme=transparent&hide_border=true&title_color=6C8CFF&icon_color=6C8CFF&text_color=E7E9EE&bg_color=0E1116)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasly2048&layout=compact&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasly2048&layout=compact&theme=transparent&hide_border=true&title_color=6C8CFF&text_color=E7E9EE&bg_color=0E1116)
+![GitHub Streak](https://streak-stats.demolab.com?user=sasly2048&theme=github-dark-blue&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasly2048&theme=dark&hide_border=true&background=0E1116&ring=6C8CFF&fire=6C8CFF&currStreakLabel=6C8CFF)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sasly2048&theme=darkhub&no-frame=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sasly2048&theme=darkhub&no-frame=true&margin-w=10)
-
-![Visitor Count](https://profile-counter.glitch.me/sasly2048/count.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
