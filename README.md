@@ -44,8 +44,9 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 
 ## 📈 GitHub Stats :
 
+
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=sasly2048&theme=dark&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=sasly2048&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
