@@ -45,9 +45,16 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 ## 📈 GitHub Stats :
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sasly2048&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
+<div align="center">
+
+<a href="https://github.com/sasly2048">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sasly2048&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/sasly2048">
+    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=tokyonight&hide_border=true&border_radius=16" />
+</a>
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
