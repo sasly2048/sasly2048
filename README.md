@@ -32,8 +32,10 @@ Welcome to my ***GitHub*** profile!
 | C Programming with Data Structures                  | GeeksforGeeks         |
 | CS50x                                               | Harvard University    |
 | Cybersecurity Essentials (LFC108)                   | The Linux Foundation  |
+| Fundamentakls of Zero-Knowledge Proofs (ZKPs)       | Cyfrin                |
 | Introduction to Git and GitHub                      | Google                |
 | Introduction to HTML5                               | University of Michigan|
+| Introduction to Large language Models               | Google Cloud          |
 | Microsoft 365 Essentials                            | Microsoft             |
 | Postman API Fundamentals Student Expert             | Postman               |
 | Qiskit Global Summer School 2025                    | Qiskit (IBM Quantum)  |
