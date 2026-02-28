@@ -35,11 +35,9 @@ Welcome to my ***GitHub*** profile!
 | Figma for UI/UX: Master Web Design in Figma         | Packt |
 | Fundamentakls of Zero-Knowledge Proofs (ZKPs)       | Cyfrin                |
 | Introduction to Git and GitHub                      | Google                |
-| Introduction to HTML5                               | University of Michigan|
 | Introduction to Large language Models               | Google Cloud          |
 | Microsoft 365 Essentials                            | Microsoft             |
 | Qiskit Global Summer School 2025                    | Qiskit (IBM Quantum)  |
-| SQL for Beginners: Learn SQL using MySQL and Database Design | Scaler        |
 
 More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/)
 
