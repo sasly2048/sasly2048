@@ -49,27 +49,6 @@ More certifications on [LinkedIn!](https://www.linkedin.com/in/raghavendra-g2048
 ## 📈 GitHub Stats :
 <a href="https://github.com/sasly2048"> <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sasly2048&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" /> </a> <a href="https://github.com/sasly2048"> <img height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=tokyonight&hide_border=true&border_radius=16" /> </a> </div>
 
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=raghavendra-g204800" target="_blank">Follow on LinkedIn</a>
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
