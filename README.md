@@ -12,7 +12,7 @@ Welcome to my ***GitHub*** profile!
 
 ## 💼 Skills : 
 
--  <img src="https://skillicons.dev/icons?i=c" width="30" height="30" alt="C"/> <img src="https://skillicons.dev/icons?i=c" width="30" height="30" alt="c++"/>   <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML"/> <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Figma"/>  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux"/>    <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="30" height="30" alt="Microsoft 365"/>  
+-  <img src="https://skillicons.dev/icons?i=c" width="30" height="30" alt="C"/> <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30" alt="c++"/>   <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML"/> <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Figma"/>  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux"/>    <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="30" height="30" alt="Microsoft 365"/>  
 
 ## 📁 Projects : 
 
