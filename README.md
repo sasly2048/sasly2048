@@ -17,7 +17,7 @@ Welcome to my ***GitHub*** profile!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,figma,html,linux" width="500" height="100"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,figma,html,linux" width="100" height="75"/>
   </a>
 </p>
 
