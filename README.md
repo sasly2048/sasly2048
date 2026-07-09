@@ -14,9 +14,10 @@ Welcome to my ***GitHub*** profile!
 
 - <img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="C"/> <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="c++"/>   <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML"/> <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Figma"/>  <img src="https://skillicons.dev/icons?i=git" width="35" height="35" alt="Git"/>  <img src="https://skillicons.dev/icons?i=linux" width="35" height="35" alt="Linux"/>    <img src="https://img.icons8.com/fluency/240/microsoft-365.png" width="35" height="35" alt="Microsoft 365"/>  
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,figma,html,linux" width="35" height="35"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,figma,html,linux" width="50" height="50"/>
   </a>
 </p>
 
