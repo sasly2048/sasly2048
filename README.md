@@ -1,6 +1,10 @@
-# `Access granted : Hello from Raghavendra!`
+<h1 align="center">
+  Access granted: Hello from Raghavendra!
+</h1>
 
-**"One student’s practice is another student’s breakthrough."**
+<p align="center">
+  <strong>"One student's practice is another student's breakthrough."</strong>
+</p>
 
 ## About Me :
 
