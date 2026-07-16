@@ -24,9 +24,9 @@ Welcome to my ***GitHub*** profile!
   
     - Visit the [GitHub repository](https://github.com/sasly2048/Password_Management_Toolkit) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
     
-- ***MetricGreen :*** MetricGreen is a blockchain-based platform designed to eliminate greenwashing and double-counting in the voluntary carbon market (VCM).
+- ***KiteGlance :*** A native Windows desktop widget that shows your Zerodha portfolio at a glance — live P&L, per-holding breakdown, and day change — glued to your desktop the way a widget should be..
   
-    - Visit the [GitHub repository](https://github.com/sasly2048/MetricGreen) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
+    - Visit the [GitHub repository](https://github.com/sasly2048/Kite-Glance) to view the full source code and detailed documentation. Explore, review, or contribute to the project directly on GitHub.
 
 ## 🏆 Certifications   
 
