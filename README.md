@@ -8,7 +8,7 @@
 - 🌱 I’m at the beginning of my journey, learning the fundamentals. 
 - 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
-### Stack
+## Stack
 
 - **Languages** — C · C++ · SQL
 - **Web** — HTML/CSS · Figma
@@ -54,7 +54,7 @@ More on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certi
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-### Reach me
+## Reach me
 
 [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/) · [Email](mailto:raghavendrasujith204800@gmail.com) · Portfolio (soon)
 
