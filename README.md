@@ -12,11 +12,13 @@
 - 🌱 I’m at the beginning of my journey, learning the fundamentals. 
 - 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
-## Stack
+
+## Stack :
 
 - **Languages** — C · C++ · SQL
 - **Web** — HTML/CSS · Figma
 - **Systems** — Windows on ARM64 (Snapdragon X Elite) · Linux
+
 
 ## Projects : 
 
