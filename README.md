@@ -28,7 +28,6 @@
 ### Also on GitHub
 
 - **[Password Management Toolkit](https://github.com/sasly2048/Password_Management_Toolkit)** — C: strength checker + random generator.
-- **[LeaseCart / OwnArc](LINK)** — premium React electronics rental platform. Product pages, cart, animations, responsive layouts.
 - **[Voting DApp](LINK)** — Solidity contract deployed on Sepolia ([`0x...`](ETHERSCAN_LINK)). React + Ethers.js frontend, MetaMask auth.
 
 
