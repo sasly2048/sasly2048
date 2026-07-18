@@ -8,9 +8,9 @@
 
 ## About Me :
 
-- 🎓 I’m currently pursuing my **B.Tech CSE (Cybersecurity) @ SRM-AP**.
-- 🌱 I’m at the beginning of my journey, learning the fundamentals. 
-- 📚 With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
+- I’m currently pursuing my **B.Tech CSE (Cybersecurity) @ SRM-AP**.
+- I’m at the beginning of my journey, learning the fundamentals. 
+- With initial certifications, I'm continuously investing time in building solid skills and preparing myself for the challenges ahead.
 
 
 ## Stack :
