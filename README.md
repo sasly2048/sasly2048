@@ -16,7 +16,7 @@
 ## Stack :
 
 - **Languages** — C · C++ · SQL
-- **Web** — HTML/CSS · Figma
+- **Web** — HTML · Figma
 - **Systems** — Windows on ARM64 (Snapdragon X Elite) · Linux
 
 
