@@ -31,6 +31,7 @@
 
 - **[Password Management Toolkit](https://github.com/sasly2048/Password_Management_Toolkit)** — C: strength checker + random generator.
 - **[Voting DApp](LINK)** — Solidity contract deployed on Sepolia ([`0x...`](ETHERSCAN_LINK)). React + Ethers.js frontend, MetaMask auth.
+- **[cc-atlas](https://github.com/sasly2048/cc-atlas)** - A CLI that turns Claude Code sessions into actionable insights—all offline.
 
 
 
