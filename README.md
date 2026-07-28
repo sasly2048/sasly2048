@@ -34,6 +34,21 @@
 - **[Password Management Toolkit](https://github.com/sasly2048/Password_Management_Toolkit)** — C: strength checker + random generator.
 - **[Voting DApp](LINK)** — Solidity contract deployed on Sepolia ([`0x...`](ETHERSCAN_LINK)). React + Ethers.js frontend, MetaMask auth.
 
+<h3 align>Like what I'm doing?</h3>
+
+<div align="center">
+  <a href="https://ko-fi.com/sasly204800" style="margin-right: 12px;">
+    <img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
+         height="50"
+         alt="Support me on Ko-fi" />
+  </a>
+
+  <a href="https://patreon.com/sasly204800">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"
+         height="50"
+         alt="Become a Patron" />
+  </a>
+</div>
 
 
 ## Certifications   
