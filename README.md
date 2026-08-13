@@ -69,9 +69,16 @@
 More on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certifications/).
 
 ## 📈 GitHub Stats :
+
 <p align="center">
-<a href="https://github.com/sasly2048"> <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sasly2048&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" /> </a> <a href="https://github.com/sasly2048"> <img height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=tokyonight&hide_border=true&border_radius=16" /> </a> </div>
+  <a href="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=dark">
+    <img height="210" src="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=dark" />
+  </a>
+  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=dark&hide_border=true&border_radius=16">
+    <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=dark&hide_border=true&border_radius=16" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
