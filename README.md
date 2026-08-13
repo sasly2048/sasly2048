@@ -67,8 +67,8 @@ More on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certi
 ## 📈 GitHub Stats :
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=dark">
-    <img height="210" src="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=dark" />
+  <a href="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=darcula">
+    <img height="210" src="https://github-stats-extended.vercel.app/api?username=sasly2048&rank_icon=reviews&show=prs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cissues&show_icons=true&include_all_commits=true&theme=darcula" />
   </a>
   <a href="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=dark&hide_border=true&border_radius=16">
     <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=dark&hide_border=true&border_radius=16" />
