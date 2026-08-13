@@ -44,10 +44,6 @@
          alt="Support me on Ko-fi" />
   </a>
 
-  <a href="https://patreon.com/sasly204800">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"
-         height="50"
-         alt="Become a Patron" />
   </a>
 </div>
 
@@ -78,7 +74,6 @@ More on [LinkedIn](https://www.linkedin.com/in/raghavendra-g204800/details/certi
     <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=sasly2048&theme=dark&hide_border=true&border_radius=16" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasly2048/sasly2048/output/github-contribution-grid-snake.svg" alt="snake" />
