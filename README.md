@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>"One student's practice is another student's breakthrough."</strong>
+  <strong>"One's practice is another's breakthrough."</strong>
 </p>
 
 ## About Me :
