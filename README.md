@@ -24,7 +24,7 @@
 
 ### Currently building
 
-- **[Stack'D](https://github.com/sasly2048/Stack-D)** — The social productivity app that starts with putting your phone down.
+- **[Stack'D]** — The social productivity app that starts with putting your phone down.
 - **[KiteGlance](https://github.com/sasly2048/Kite-Glance)** — native Windows desktop widget for Zerodha portfolios. Live P&L, per-holding breakdown, day change. WPF/.NET 8, DWM acrylic backdrop, Windows DPAPI credential storage.
 - **[WPM-Typing-Test](https://github.com/sasly2048/WPM-Typing-Test)** - A modern typing platform designed to improve speed, accuracy, and consistency through detailed performance analytics.
 
