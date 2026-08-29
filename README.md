@@ -25,11 +25,11 @@
 ### Currently building
 
 - **[Stack'D](https://stackd.raghav.studio)** — The social productivity app that starts with putting your phone down.
-- **[KiteGlance](https://github.com/sasly2048/Kite-Glance)** — native Windows desktop widget for Zerodha portfolios. Live P&L, per-holding breakdown, day change. WPF/.NET 8, DWM acrylic backdrop, Windows DPAPI credential storage.
 - **[WPM-Typing-Test](https://github.com/sasly2048/WPM-Typing-Test)** - A modern typing platform designed to improve speed, accuracy, and consistency through detailed performance analytics.
 
 ### Also on GitHub
 
+- **[KiteGlance](https://github.com/sasly2048/Kite-Glance)** — native Windows desktop widget for Zerodha portfolios. Live P&L, per-holding breakdown, day change. WPF/.NET 8, DWM acrylic backdrop, Windows DPAPI credential storage.
 - **[cc-atlas](https://github.com/sasly2048/cc-atlas)** - A CLI that turns Claude Code sessions into actionable insights—all offline.
 - **[codex-atlas](https://github.com/sasly2048/codex-atlas)** - A CLI that turns Codex sessions into actionable insights—all offline.
 - **[Password Management Toolkit](https://github.com/sasly2048/Password_Management_Toolkit)** — C: strength checker + random generator.
