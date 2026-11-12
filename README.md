@@ -25,7 +25,6 @@
 ### Currently building
 
 - **[Stack'D](https://stackd.raghav.studio)** — The social productivity app that starts with putting your phone down.
-- **[WPM-Typing-Test](https://github.com/sasly2048/WPM-Typing-Test)** - A modern typing platform designed to improve speed, accuracy, and consistency through detailed performance analytics.
 
 ### Also on GitHub
 
